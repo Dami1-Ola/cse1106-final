@@ -1,0 +1,5 @@
+1. My primary contribution to this project was writing sections of the main.c.
+2. The most challenging technical aspect that the team encountered was getting pigpiod to work. One of the rPI did not have it installed and the other was difficult to use.
+3. The team used compiling to detect a difference in English used for the term initialize which was causing issues.
+4. Learning how to use the breadboard was the skill that was most useful.
+5. I would improve the ability to handle non-standard user input, allowing non0standard input to be handled by re-calling the scanf.
