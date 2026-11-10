@@ -1,0 +1,5 @@
+What was your primary contribution to the project? Helped design main.c
+What was the most challenging technical problem your team encountered? Getting Pigpio to work 
+How did your team use testing or debugging to solve a problem? Went through the code to see what was less efficient
+Which skills from CSE 1106 were most useful? Using the breadboard
+What would you improve if you had more time? Having the UserInput check for negative numbers on the give maximum capacity.
