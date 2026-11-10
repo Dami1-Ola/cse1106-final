@@ -1,0 +1,30 @@
+Dami/Nathan Occupancy system
+TEST 1
+Maximum Student capacity         Space Available     Expected LED Indicator   Actual LED Indicator
+5                                 0/5                   OFF                        OFF
+                                  2/5                  OFF                          OFF
+                                  5/5                   ON                           ON
+
+TEST 2
+Maximum Student capacity         Space Available     Expected LED Indicator      Actual LED Indicator
+10                                4/10                  OFF                              OFF
+                                  5/10                  OFF                               OFF
+                                  9/10                  OFF                              OFF
+                                   10/10                ON                               ON
+
+TEST 3
+Maximum Student capacity         Space Available     Expected LED Indicator      Actual LED Indicator
+13                                4/13                 OFF                              OFF
+                                  5/13                  OFF                               OFF
+                                  13/13                 ON                              ON
+                                   9/13               OFF                              OFF
+
+TEST 4
+Maximum Student capacity         Space Available     Expected LED Indicator      Actual LED Indicator
+2                                1/2                 OFF                              OFF
+                                  2/2                  ON                               ON
+
+TEST 5
+Maximum Student capacity         Space Available    Expected LED Indicator      Actual LED Indicator
+1                              0/1                  OFF                              OFF
+                              1/1                   ON                               ON
